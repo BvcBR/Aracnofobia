@@ -1,5 +1,5 @@
 # 🕷️ Arachnophobia
-Note: This is a "vintage" project from my personal archive. I developed this game entirely in 2016 at the age of 12. While it is a little bit messy, it works!
+Sharing a "vintage" project from my personal archive. I developed this game entirely in 2016 at the age of 12. While it is a little bit messy, it works!
 
 # 📖 About the Game
 This is a survival dodging game built around a simple but stressful concept: Fear.
