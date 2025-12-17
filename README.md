@@ -34,4 +34,7 @@ Choose the Arachnophobia.gmz file.
 
 Note: It will ask to convert the project to the new format. This is normal.
 
-Run: Press F5 or click the "Play" button to compile and launch the game.
+Run: Press F5 or click the "Run" button to compile and launch the game.
+
+
+<img width="1019" height="540" alt="Screenshot 2025-12-17 at 02 47 09" src="https://github.com/user-attachments/assets/0b83a579-f9ab-4a2d-821a-dc8feebd0421" />
